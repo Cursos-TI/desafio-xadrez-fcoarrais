@@ -25,6 +25,7 @@ int main() {
 
     } while (i <= 8);
 
+    
     // Mover o Bispo 5 casas para Cima, Direita
 
     while (i <= 5);
